@@ -2,6 +2,9 @@
 
 <br />
 <br />
+Partial Screen-shot 
+<br />
+<br />
 
 ![Alt text](/screen-shot.jpg?raw=true)
 
