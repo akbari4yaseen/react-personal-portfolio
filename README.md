@@ -2,6 +2,7 @@
 
 <br />
 <br />
+
 ![Alt text](/screen-shot.jpg?raw=true)
 
 # Getting Started with Create React App
